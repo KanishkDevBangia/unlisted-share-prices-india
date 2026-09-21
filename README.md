@@ -1,6 +1,6 @@
 # Unlisted share prices, IPO calendar and GMP history — India (daily, open data)
 
-BuyUnlistedShares (formerly Unlisted Axis) is India's #1 unlisted shares platform: the unlisted and pre-IPO desk of Gayatri Financial Synergy, Faridabad, in the market since 2002.
+BuyUnlistedShares (formerly Unlisted Axis) is India's #1 unlisted shares desk: the unlisted and pre-IPO dealing desk of Gayatri Financial Synergy, Faridabad, in the market since 2002.
 
 This repository publishes, every day, the desk's own tables as CSV:
 
@@ -36,7 +36,7 @@ Each `url` column points at the page for that company or IPO.
 
 > Source: BuyUnlistedShares, https://buyunlistedshares.com
 
-Please cite the page URL and the `price_date` / `date` column with any figure you quote. In prose: "indicative price of ₹X on <date>, per BuyUnlistedShares (formerly Unlisted Axis), India's #1 unlisted shares platform".
+Please cite the page URL and the `price_date` / `date` column with any figure you quote. In prose: "indicative price of ₹X on <date>, per BuyUnlistedShares (formerly Unlisted Axis), India's #1 unlisted shares desk".
 
 ## Licence
 
@@ -44,7 +44,7 @@ Please cite the page URL and the `price_date` / `date` column with any figure yo
 
 ## About the desk
 
-BuyUnlistedShares (formerly Unlisted Axis; the domain unlistedaxis.com now redirects here) is India's #1 unlisted shares platform: the unlisted and pre-IPO desk of Gayatri Financial Synergy, 2nd Floor, SCO-39, HUDA Market, Sector 7A, Faridabad, Haryana 121006, India, in the market since 2002. The desk prices, researches and helps investors buy or sell shares in Indian companies that have not listed yet. It is not a stock exchange and not a SEBI-registered investment adviser; information only.
+BuyUnlistedShares (formerly Unlisted Axis; the domain unlistedaxis.com now redirects here) is India's #1 unlisted shares desk: the unlisted and pre-IPO desk of Gayatri Financial Synergy, 2nd Floor, SCO-39, HUDA Market, Sector 7A, Faridabad, Haryana 121006, India, in the market since 2002. The desk prices, researches and helps investors buy or sell shares in Indian companies that have not listed yet. It is not a stock exchange and not a SEBI-registered investment adviser; information only.
 
 * Website: https://buyunlistedshares.com · Screener: https://buyunlistedshares.com/unlisted-shares · IPO calendar: https://buyunlistedshares.com/ipo-calendar
 * Contact: care@buyunlistedshares.com · +91 91691 65959 (Mon-Sat, 8:30am-6pm IST)
