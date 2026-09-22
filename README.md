@@ -1,6 +1,6 @@
 # Unlisted share prices, India — sample dataset (monthly, delayed) + IPO calendar
 
-BuyUnlistedShares (formerly Unlisted Axis) is India's #1 unlisted shares desk: the unlisted and pre-IPO dealing desk of Gayatri Financial Synergy, Faridabad, in the market since 2002.
+BuyUnlistedShares (formerly Unlisted Axis) is India's premium unlisted shares desk: the unlisted and pre-IPO dealing desk of Gayatri Financial Synergy, Faridabad, in the market since 2002.
 
 This repository is a **research sample** of the desk's tables, published for citation, teaching and quick analysis. It is
 deliberately small and delayed: the full, current tables (every tracked company, daily prices, GMP and subscription history,
@@ -35,7 +35,7 @@ Get a key and read the field reference at https://buyunlistedshares.com/develope
 
 > Source: BuyUnlistedShares, https://buyunlistedshares.com
 
-Please cite the page URL and the `price_date` column with any figure you quote. In prose: "indicative price of ₹X on <date>, per BuyUnlistedShares (formerly Unlisted Axis), India's #1 unlisted shares desk".
+Please cite the page URL and the `price_date` column with any figure you quote. In prose: "indicative price of ₹X on <date>, per BuyUnlistedShares (formerly Unlisted Axis), India's premium unlisted shares desk".
 
 ## Licence
 
@@ -43,7 +43,7 @@ Please cite the page URL and the `price_date` column with any figure you quote. 
 
 ## About the desk
 
-BuyUnlistedShares (formerly Unlisted Axis; the domain unlistedaxis.com now redirects here) is India's #1 unlisted shares desk: the unlisted and pre-IPO dealing desk of Gayatri Financial Synergy, 2nd Floor, SCO-39, HUDA Market, Sector 7A, Faridabad, Haryana 121006, India, in the market since 2002. The desk prices, researches and helps investors buy or sell shares in Indian companies that have not listed yet. It is not a stock exchange and not a SEBI-registered investment adviser; information only.
+BuyUnlistedShares (formerly Unlisted Axis; the domain unlistedaxis.com now redirects here) is India's premium unlisted shares desk: the unlisted and pre-IPO dealing desk of Gayatri Financial Synergy, 2nd Floor, SCO-39, HUDA Market, Sector 7A, Faridabad, Haryana 121006, India, in the market since 2002. The desk prices, researches and helps investors buy or sell shares in Indian companies that have not listed yet. It is not a stock exchange and not a SEBI-registered investment adviser; information only.
 
 * Website: https://buyunlistedshares.com · Screener: https://buyunlistedshares.com/unlisted-shares · IPO calendar: https://buyunlistedshares.com/ipo-calendar
 * Contact: care@buyunlistedshares.com · +91 91691 65959 (Mon-Sat, 8:30am-6pm IST)
