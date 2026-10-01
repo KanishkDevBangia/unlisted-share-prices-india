@@ -1,9 +1,9 @@
 {
- "asOf": "2026-09-21T10:21:07Z",
- "pricesAsOf": "2026-09-14",
+ "asOf": "2026-10-01T06:15:07Z",
+ "pricesAsOf": "2026-09-24",
  "companies": 30,
- "ipos": 170,
+ "ipos": 197,
  "delayDays": 7,
- "open": 8,
- "upcoming": 21
+ "open": 21,
+ "upcoming": 2
 }

@@ -1,128 +1,155 @@
 slug,name,board,status,exchange,open_date,close_date,price_band_low_inr,price_band_high_inr,lot_size,issue_size,allotment_date,listing_date,url
-nse-ipo,NSE,Mainboard,open,NSE,2026-09-17,2026-09-21,1700,1785,8,₹22561.57 Cr,2026-09-22,2026-09-24,https://buyunlistedshares.com/ipo/nse-ipo
-sonaselection-india-ipo,Sonaselection India,Mainboard,open,"NSE, BSE",2026-09-17,2026-09-21,94,99,150,₹141.57 Cr,2026-09-22,2026-09-24,https://buyunlistedshares.com/ipo/sonaselection-india-ipo
-kheria-autocomp-ipo,Kheria Autocomp,SME,open,NSE SME,2026-09-17,2026-09-21,96,101,1200,₹46.44 Cr,2026-09-22,2026-09-24,https://buyunlistedshares.com/ipo/kheria-autocomp-ipo
-spectraa-technology-solutions-ipo,SpectraA Technology Solutions,SME,open,NSE SME,2026-09-17,2026-09-21,112,118,1200,₹42.52 Cr,2026-09-22,2026-09-24,https://buyunlistedshares.com/ipo/spectraa-technology-solutions-ipo
-axiom-gas-engineering-ipo,Axiom Gas Engineering,SME,open,NSE SME,2026-09-18,2026-09-22,51,54,2000,₹50.75 Cr,2026-09-23,2026-09-25,https://buyunlistedshares.com/ipo/axiom-gas-engineering-ipo
-robokidz-eduventures-ipo,Robokidz Eduventures,SME,open,BSE SME,2026-09-21,2026-09-23,100,106,1200,₹31.09 Cr,2026-09-24,2026-09-28,https://buyunlistedshares.com/ipo/robokidz-eduventures-ipo
-fx-multitech-ipo,FX Multitech,SME,open,BSE SME,2026-09-21,2026-09-23,110,116,1200,₹45.24 Cr,2026-09-24,2026-09-28,https://buyunlistedshares.com/ipo/fx-multitech-ipo
-vivekanand-cotspin-ipo,Vivekanand Cotspin,SME,open,BSE SME,2026-09-21,2026-09-23,32,37,3000,₹22.20 Cr,2026-09-24,2026-09-28,https://buyunlistedshares.com/ipo/vivekanand-cotspin-ipo
-varmora-granito-ipo,Varmora Granito,Mainboard,upcoming,"NSE, BSE",2026-09-22,2026-09-24,140,148,101,₹708.02 Cr,2026-09-25,2026-09-29,https://buyunlistedshares.com/ipo/varmora-granito-ipo
-anand-seamless-ipo,Anand Seamless,SME,upcoming,BSE SME,2026-09-22,2026-09-24,72,72,1600,₹25.52 Cr,2026-09-25,2026-09-29,https://buyunlistedshares.com/ipo/anand-seamless-ipo
-himalaya-nutravedics-ipo,Himalaya Nutravedics,SME,upcoming,BSE SME,2026-09-22,2026-09-24,100,106,1200,₹26.50 Cr,2026-09-25,2026-09-29,https://buyunlistedshares.com/ipo/himalaya-nutravedics-ipo
-unitec-fibres-ipo,Unitec Fibres,SME,upcoming,BSE SME,2026-09-23,2026-09-25,83,88,1600,₹34.47 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/unitec-fibres-ipo
-swastika-infra-ipo,Swastika Infra,Mainboard,upcoming,"NSE, BSE",2026-09-23,2026-09-25,175,185,81,₹160.88 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/swastika-infra-ipo
-pooja-logistics-ipo,Pooja Logistics,SME,upcoming,NSE SME,2026-09-23,2026-09-25,109,115,1200,₹44.23 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/pooja-logistics-ipo
-adroit-industries-ipo,Adroit Industries,Mainboard,upcoming,"NSE, BSE",2026-09-23,2026-09-25,126,134,111,₹150.71 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/adroit-industries-ipo
-skoffset-ipo,S.K.Offset,SME,upcoming,BSE SME,2026-09-23,2026-09-25,119,125,1000,₹29.06 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/skoffset-ipo
-elevate-campuses-ipo,Elevate Campuses,Mainboard,upcoming,"NSE, BSE",2026-09-23,2026-09-25,343,362,41,₹2100.00 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/elevate-campuses-ipo
-coreintegra-consulting-ipo,Coreintegra Consulting,Mainboard,upcoming,"NSE, BSE",2026-09-23,2026-09-25,78,78,,,,,https://buyunlistedshares.com/ipo/coreintegra-consulting-ipo
-liqvd-digital-ipo,Liqvd Digital,SME,upcoming,BSE SME,2026-09-23,2026-09-25,51,54,2000,₹39.01 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/liqvd-digital-ipo
-core-integra-consulting-ipo,Core Integra Consulting,SME,upcoming,NSE SME,2026-09-23,2026-09-25,74,78,1600,₹21.99 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/core-integra-consulting-ipo
-armee-infotech-ipo,ArMee Infotech,Mainboard,upcoming,"NSE, BSE",2026-09-23,2026-09-25,350,375,40,₹300.00 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/armee-infotech-ipo
-a-one-steels-ipo,A-One Steels,Mainboard,upcoming,"NSE, BSE",2026-09-24,2026-09-28,385,405,37,₹405.00 Cr,2026-09-29,2026-10-01,https://buyunlistedshares.com/ipo/a-one-steels-ipo
-moneyview-ipo,Moneyview,Mainboard,upcoming,"NSE, BSE",2026-09-24,2026-09-28,32,34,441,₹1091.68 Cr,2026-09-29,2026-10-01,https://buyunlistedshares.com/ipo/moneyview-ipo
-roopa-screen-ipo,Roopa Screen,SME,upcoming,BSE SME,2026-09-24,2026-09-28,60,64,2000,₹19.20 Cr,2026-09-29,2026-10-01,https://buyunlistedshares.com/ipo/roopa-screen-ipo
-peshwa-wheat-ipo,Peshwa Wheat,SME,upcoming,BSE SME,2026-09-24,2026-09-28,95,101,1200,₹53.52 Cr,2026-09-29,2026-10-01,https://buyunlistedshares.com/ipo/peshwa-wheat-ipo
-green-asia-impex-ipo,Green Asia Impex,SME,upcoming,NSE SME,2026-09-24,2026-09-28,85,90,1600,₹60.10 Cr,2026-09-29,2026-10-01,https://buyunlistedshares.com/ipo/green-asia-impex-ipo
-bench-mark-infotech-services-ipo,Bench Mark Infotech Services,SME,upcoming,NSE SME,2026-09-25,2026-09-29,104,110,1200,₹42.44 Cr,2026-09-30,2026-10-05,https://buyunlistedshares.com/ipo/bench-mark-infotech-services-ipo
-himalayan-solar-ipo,Himalayan Solar,SME,upcoming,NSE SME,2026-09-25,2026-09-29,98,103,1200,₹68.03 Cr,2026-09-30,2026-10-05,https://buyunlistedshares.com/ipo/himalayan-solar-ipo
-sai-urja-indo-ipo,Sai Urja Indo,SME,upcoming,BSE SME,2026-09-25,2026-09-29,107,113,1200,₹24.95 Cr,2026-09-30,2026-10-05,https://buyunlistedshares.com/ipo/sai-urja-indo-ipo
-jindal-supreme-ipo,Jindal Supreme,Mainboard,closed,"NSE, BSE",2026-09-16,2026-09-18,88,93,161,₹124.88 Cr,2026-09-21,2026-09-23,https://buyunlistedshares.com/ipo/jindal-supreme-ipo
-hero-motors-ipo,Hero Motors,Mainboard,closed,"NSE, BSE",2026-09-16,2026-09-18,79,84,178,₹1000.00 Cr,2026-09-21,2026-09-23,https://buyunlistedshares.com/ipo/hero-motors-ipo
-ss-retail-ipo,SS Retail,Mainboard,closed,"NSE, BSE",2026-09-16,2026-09-18,403,424,35,₹500.00 Cr,2026-09-21,2026-09-23,https://buyunlistedshares.com/ipo/ss-retail-ipo
-quanto-agroworld-ipo,Quanto Agroworld,SME,closed,BSE SME,2026-09-15,2026-09-17,67,67,2000,₹31.02 Cr,2026-09-18,2026-09-22,https://buyunlistedshares.com/ipo/quanto-agroworld-ipo
-shakti-polytarp-ipo,Shakti Polytarp,SME,closed,BSE SME,2026-09-15,2026-09-17,56,59,2000,₹26.93 Cr,2026-09-18,2026-09-22,https://buyunlistedshares.com/ipo/shakti-polytarp-ipo
-vama-wovenfab-ipo,Vama Wovenfab,SME,closed,BSE SME,2026-09-15,2026-09-17,324,341,400,₹49.54 Cr,2026-09-18,2026-09-22,https://buyunlistedshares.com/ipo/vama-wovenfab-ipo
+srit-india-ipo,SRIT India,Mainboard,open,"NSE, BSE",2026-09-28,2026-09-30,123,130,115,₹218.40 Cr,2026-10-01,2026-10-06,https://buyunlistedshares.com/ipo/srit-india-ipo
+shivchem-agro-ipo,Shivchem Agro,SME,open,BSE SME,2026-09-28,2026-09-30,59,62,2000,₹14.01 Cr,2026-10-01,2026-10-06,https://buyunlistedshares.com/ipo/shivchem-agro-ipo
+pind-hospitality-ipo,Pind Hospitality,SME,open,BSE SME,2026-09-28,2026-09-30,93,99,1200,₹17.82 Cr,2026-10-01,2026-10-06,https://buyunlistedshares.com/ipo/pind-hospitality-ipo
+acme-universal-safezone-9-ipo,Acme Universal Safezone 9,SME,open,BSE SME,2026-09-28,2026-09-30,65,71,1600,₹35.93 Cr,2026-10-01,2026-10-06,https://buyunlistedshares.com/ipo/acme-universal-safezone-9-ipo
+shah-investors-home-ipo,Shah Investor's Home,Mainboard,open,"NSE, BSE",2026-09-28,2026-09-30,159,167,85,₹90.17 Cr,2026-10-01,2026-10-06,https://buyunlistedshares.com/ipo/shah-investors-home-ipo
+vans-electroengineerings-ipo,Vans Electroengineerings,SME,open,BSE SME,2026-09-29,2026-10-01,112,118,1200,₹33.98 Cr,2026-10-05,2026-10-07,https://buyunlistedshares.com/ipo/vans-electroengineerings-ipo
+green-asia-impex-ipo,Green Asia Impex,SME,open,NSE SME,2026-09-24,2026-10-01,84,89,1600,₹59.34 Cr,2026-10-05,2026-10-07,https://buyunlistedshares.com/ipo/green-asia-impex-ipo
+black-opal-consultants-ipo,Black Opal Consultants,SME,open,BSE SME,2026-09-29,2026-10-01,185,197,600,₹55.08 Cr,2026-10-05,2026-10-07,https://buyunlistedshares.com/ipo/black-opal-consultants-ipo
+papadmalji-agro-foods-ipo,Papadmalji Agro Foods,SME,open,NSE SME,2026-09-29,2026-10-01,69,72,1600,₹20.18 Cr,2026-10-05,2026-10-07,https://buyunlistedshares.com/ipo/papadmalji-agro-foods-ipo
+sjp-ultrasonic-ipo,SJP Ultrasonic,SME,open,BSE SME,2026-09-30,2026-10-05,67,67,2000,₹23.45 Cr,2026-10-06,2026-10-08,https://buyunlistedshares.com/ipo/sjp-ultrasonic-ipo
+nityas-gems-jewellery-ipo,Nityas Gems & Jewellery,Mainboard,open,"NSE, BSE",2026-09-30,2026-10-05,70,75,200,₹108.35 Cr,2026-10-06,2026-10-08,https://buyunlistedshares.com/ipo/nityas-gems-jewellery-ipo
+shree-tnb-polymers-ipo,Shree TNB Polymers,SME,open,BSE SME,2026-09-28,2026-10-05,50,53,2000,₹31.80 Cr,2026-10-06,2026-10-08,https://buyunlistedshares.com/ipo/shree-tnb-polymers-ipo
+dove-soft-ipo,Dove Soft,SME,open,BSE SME,2026-09-30,2026-10-05,104,111,1200,₹73.26 Cr,2026-10-06,2026-10-08,https://buyunlistedshares.com/ipo/dove-soft-ipo
+sollfege-smart-electronics-ipo,Sollfege Smart Electronics,SME,open,BSE SME,2026-09-30,2026-10-05,55,55,2000,₹21.78 Cr,2026-10-06,2026-10-08,https://buyunlistedshares.com/ipo/sollfege-smart-electronics-ipo
+everestims-technologies-ipo,EverestIMS Technologies,SME,open,BSE SME,2026-09-29,2026-10-05,80,85,1600,₹48.46 Cr,2026-10-06,2026-10-08,https://buyunlistedshares.com/ipo/everestims-technologies-ipo
+vishal-nirmiti-ipo,Vishal Nirmiti,Mainboard,open,"NSE, BSE",2026-09-30,2026-10-05,208,220,68,₹178.00 Cr,2026-10-06,2026-10-08,https://buyunlistedshares.com/ipo/vishal-nirmiti-ipo
+omara-ventures-india-ipo,Omara Ventures India,SME,open,BSE SME,2026-09-30,2026-10-05,296,311,400,₹41.99 Cr,2026-10-06,2026-10-08,https://buyunlistedshares.com/ipo/omara-ventures-india-ipo
+eventions-ipo,Eventions,SME,open,NSE SME,2026-09-30,2026-10-05,112,118,1200,₹38.12 Cr,2026-10-06,2026-10-08,https://buyunlistedshares.com/ipo/eventions-ipo
+tna-solutions-ipo,TNA Solutions,SME,open,BSE SME,2026-09-30,2026-10-06,66,70,2000,₹37.86 Cr,2026-10-07,2026-10-09,https://buyunlistedshares.com/ipo/tna-solutions-ipo
+paramount-syntex-ipo,Paramount Syntex,SME,open,BSE SME,2026-09-30,2026-10-06,119,127,1000,₹81.79 Cr,2026-10-07,2026-10-09,https://buyunlistedshares.com/ipo/paramount-syntex-ipo
+acme-india-industries-ipo,Acme India Industries,SME,open,BSE SME,2026-09-30,2026-10-06,186,196,600,₹121.69 Cr,2026-10-07,2026-10-09,https://buyunlistedshares.com/ipo/acme-india-industries-ipo
+rkfashion-accessories-ipo,R.K.Fashion Accessories,SME,upcoming,NSE SME,2026-10-05,2026-10-07,77,82,1600,₹34.99 Cr,2026-10-08,2026-10-12,https://buyunlistedshares.com/ipo/rkfashion-accessories-ipo
+sjp-ultrasonics-ipo,SJP Ultrasonics,Mainboard,upcoming,"NSE, BSE",2026-10-30,2026-10-05,67,67,,,,,https://buyunlistedshares.com/ipo/sjp-ultrasonics-ipo
+orient-cables-ipo,Orient Cables,Mainboard,closed,"NSE, BSE",2026-09-25,2026-09-29,258,272,55,₹552.00 Cr,2026-09-30,2026-10-05,https://buyunlistedshares.com/ipo/orient-cables-ipo
+bench-mark-infotech-services-ipo,Bench Mark Infotech Services,SME,closed,NSE SME,2026-09-25,2026-09-29,104,110,1200,₹42.44 Cr,2026-09-30,2026-10-05,https://buyunlistedshares.com/ipo/bench-mark-infotech-services-ipo
+dudani-retail-ipo,Dudani Retail,SME,closed,BSE SME,2026-09-25,2026-09-29,29,29,4000,₹10.54 Cr,2026-09-30,2026-10-05,https://buyunlistedshares.com/ipo/dudani-retail-ipo
+german-green-steel-and-power-ipo,German Green Steel,Mainboard,closed,"NSE, BSE",2026-09-25,2026-09-29,132,139,107,₹303.90 Cr,2026-09-30,2026-10-05,https://buyunlistedshares.com/ipo/german-green-steel-and-power-ipo
+himalayan-solar-ipo,Himalayan Solar,SME,closed,NSE SME,2026-09-25,2026-09-29,98,103,1200,₹68.03 Cr,2026-09-30,2026-10-05,https://buyunlistedshares.com/ipo/himalayan-solar-ipo
+acevector-ipo,AceVector (Snapdeal),Mainboard,closed,"NSE, BSE",2026-09-25,2026-09-29,30,32,468,₹420.00 Cr,2026-09-30,2026-10-05,https://buyunlistedshares.com/ipo/acevector-ipo
+runwal-enterprises-ipo,Runwal Enterprises,Mainboard,closed,"NSE, BSE",2026-09-25,2026-09-29,290,305,49,₹500.00 Cr,2026-09-30,2026-10-05,https://buyunlistedshares.com/ipo/runwal-enterprises-ipo
+sai-urja-indo-ipo,Sai Urja Indo,SME,closed,BSE SME,2026-09-25,2026-09-29,107,113,1200,₹24.95 Cr,2026-09-30,2026-10-05,https://buyunlistedshares.com/ipo/sai-urja-indo-ipo
+moneyview-ipo,Moneyview,Mainboard,closed,"NSE, BSE",2026-09-24,2026-09-28,32,34,441,₹1091.68 Cr,2026-09-29,2026-10-01,https://buyunlistedshares.com/ipo/moneyview-ipo
+roopa-screen-ipo,Roopa Screen,SME,closed,BSE SME,2026-09-24,2026-09-28,60,64,2000,₹19.20 Cr,2026-09-29,2026-10-01,https://buyunlistedshares.com/ipo/roopa-screen-ipo
+a-one-steels-ipo,A-One Steels,Mainboard,closed,"NSE, BSE",2026-09-24,2026-09-28,385,405,37,₹405.00 Cr,2026-09-29,2026-10-01,https://buyunlistedshares.com/ipo/a-one-steels-ipo
+peshwa-wheat-ipo,Peshwa Wheat,SME,closed,BSE SME,2026-09-24,2026-09-28,95,101,1200,₹53.52 Cr,2026-09-29,2026-10-01,https://buyunlistedshares.com/ipo/peshwa-wheat-ipo
+coreintegra-consulting-ipo,Coreintegra Consulting,Mainboard,closed,"NSE, BSE",2026-09-23,2026-09-25,78,78,,,,,https://buyunlistedshares.com/ipo/coreintegra-consulting-ipo
 twinkle-papers-ipo,Twinkle Papers,SME,closed,BSE SME,2026-06-29,2026-07-01,69,69,2000,₹27.52 Cr,,2026-07-06,https://buyunlistedshares.com/ipo/twinkle-papers-ipo
 sri-priyanka-geo-commex-ipo,Sri Priyanka Geo Commex,SME,closed,NSE SME,2026-06-24,2026-06-29,212,212,600,₹94.51 Cr,,2026-07-02,https://buyunlistedshares.com/ipo/sri-priyanka-geo-commex-ipo
 gujarat-industries-power-coltd-fpo-ipo,Gujarat Industries Power CoLtd,Mainboard,closed,"NSE, BSE",2005-10-13,2005-10-19,68,68,,₹275.00 Cr,,,https://buyunlistedshares.com/ipo/gujarat-industries-power-coltd-fpo-ipo
-injecto-polymers-ipo,Injecto Polymers,SME,listed,BSE SME,2026-09-11,2026-09-16,98,100,1200,₹56.12 Cr,2026-09-17,2026-09-21,https://buyunlistedshares.com/ipo/injecto-polymers-ipo
+unitec-fibres-ipo,Unitec Fibres,SME,listed,BSE SME,2026-09-23,2026-09-25,83,88,1600,₹34.47 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/unitec-fibres-ipo
+skoffset-ipo,S.K.Offset,SME,listed,BSE SME,2026-09-23,2026-09-25,119,125,1000,₹29.06 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/skoffset-ipo
+elevate-campuses-ipo,Elevate Campuses,Mainboard,listed,"NSE, BSE",2026-09-23,2026-09-25,343,362,41,₹2100.00 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/elevate-campuses-ipo
+armee-infotech-ipo,ArMee Infotech,Mainboard,listed,"NSE, BSE",2026-09-23,2026-09-25,350,375,40,₹300.00 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/armee-infotech-ipo
+core-integra-consulting-ipo,Core Integra Consulting,SME,listed,NSE SME,2026-09-23,2026-09-25,74,78,1600,₹21.99 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/core-integra-consulting-ipo
+liqvd-digital-ipo,Liqvd Digital,SME,listed,BSE SME,2026-09-23,2026-09-25,51,54,2000,₹39.01 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/liqvd-digital-ipo
+adroit-industries-ipo,Adroit Industries,Mainboard,listed,"NSE, BSE",2026-09-23,2026-09-25,126,134,111,₹150.71 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/adroit-industries-ipo
+swastika-infra-ipo,Swastika Infra,Mainboard,listed,"NSE, BSE",2026-09-23,2026-09-25,175,185,81,₹160.88 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/swastika-infra-ipo
+pooja-logistics-ipo,Pooja Logistics,SME,listed,NSE SME,2026-09-23,2026-09-25,109,115,1200,₹44.23 Cr,2026-09-28,2026-09-30,https://buyunlistedshares.com/ipo/pooja-logistics-ipo
+himalaya-nutravedics-ipo,Himalaya Nutravedics,SME,listed,BSE SME,2026-09-22,2026-09-24,100,106,1200,₹26.50 Cr,2026-09-25,2026-09-29,https://buyunlistedshares.com/ipo/himalaya-nutravedics-ipo
+anand-seamless-ipo,Anand Seamless,SME,listed,BSE SME,2026-09-22,2026-09-24,72,72,1600,₹25.52 Cr,2026-09-25,2026-09-29,https://buyunlistedshares.com/ipo/anand-seamless-ipo
+varmora-granito-ipo,Varmora Granito,Mainboard,listed,"NSE, BSE",2026-09-22,2026-09-24,140,148,101,₹708.02 Cr,2026-09-25,2026-09-29,https://buyunlistedshares.com/ipo/varmora-granito-ipo
+fx-multitech-ipo,FX Multitech,SME,listed,BSE SME,2026-09-21,2026-09-23,110,116,1200,₹45.24 Cr,2026-09-24,2026-09-28,https://buyunlistedshares.com/ipo/fx-multitech-ipo
+robokidz-eduventures-ipo,Robokidz Eduventures,SME,listed,BSE SME,2026-09-21,2026-09-23,100,106,1200,₹31.09 Cr,2026-09-24,2026-09-28,https://buyunlistedshares.com/ipo/robokidz-eduventures-ipo
+vivekanand-cotspin-ipo,Vivekanand Cotspin,SME,listed,BSE SME,2026-09-21,2026-09-23,32,37,3000,₹22.20 Cr,2026-09-24,2026-09-28,https://buyunlistedshares.com/ipo/vivekanand-cotspin-ipo
+axiom-gas-engineering-ipo,Axiom Gas Engineering,SME,listed,NSE SME,2026-09-18,2026-09-22,51,54,2000,₹50.75 Cr,2026-09-23,2026-09-25,https://buyunlistedshares.com/ipo/axiom-gas-engineering-ipo
+kheria-autocomp-ipo,Kheria Autocomp,SME,listed,NSE SME,2026-09-17,2026-09-21,96,101,1200,₹46.44 Cr,2026-09-22,2026-09-24,https://buyunlistedshares.com/ipo/kheria-autocomp-ipo
+sonaselection-india-ipo,Sonaselection India,Mainboard,listed,"NSE, BSE",2026-09-17,2026-09-21,94,99,150,₹141.57 Cr,2026-09-22,2026-09-24,https://buyunlistedshares.com/ipo/sonaselection-india-ipo
+spectraa-technology-solutions-ipo,SpectraA Technology Solutions,SME,listed,NSE SME,2026-09-17,2026-09-21,112,118,1200,₹42.52 Cr,2026-09-22,2026-09-24,https://buyunlistedshares.com/ipo/spectraa-technology-solutions-ipo
+nse-ipo,NSE,Mainboard,listed,BSE,2026-09-17,2026-09-21,1700,1785,8,₹22561.57 Cr,2026-09-22,2026-09-24,https://buyunlistedshares.com/ipo/nse-ipo
+jindal-supreme-ipo,Jindal Supreme,Mainboard,listed,"NSE, BSE",2026-09-16,2026-09-18,88,93,161,₹124.88 Cr,2026-09-21,2026-09-23,https://buyunlistedshares.com/ipo/jindal-supreme-ipo
+ss-retail-ipo,SS Retail,Mainboard,listed,"NSE, BSE",2026-09-16,2026-09-18,403,424,35,₹500.00 Cr,2026-09-21,2026-09-23,https://buyunlistedshares.com/ipo/ss-retail-ipo
+hero-motors-ipo,Hero Motors,Mainboard,listed,"NSE, BSE",2026-09-16,2026-09-18,79,84,178,₹1000.00 Cr,2026-09-21,2026-09-23,https://buyunlistedshares.com/ipo/hero-motors-ipo
+vama-wovenfab-ipo,Vama Wovenfab,SME,listed,BSE SME,2026-09-15,2026-09-17,324,341,400,₹49.54 Cr,2026-09-18,2026-09-22,https://buyunlistedshares.com/ipo/vama-wovenfab-ipo
+quanto-agroworld-ipo,Quanto Agroworld,SME,listed,BSE SME,2026-09-15,2026-09-17,67,67,2000,₹31.02 Cr,2026-09-18,2026-09-22,https://buyunlistedshares.com/ipo/quanto-agroworld-ipo
+shakti-polytarp-ipo,Shakti Polytarp,SME,listed,BSE SME,2026-09-15,2026-09-17,56,59,2000,₹26.93 Cr,2026-09-18,2026-09-22,https://buyunlistedshares.com/ipo/shakti-polytarp-ipo
 manika-plastech-ipo,Manika Plastech,Mainboard,listed,"NSE, BSE",2026-09-11,2026-09-16,40,43,348,₹125.50 Cr,2026-09-17,2026-09-21,https://buyunlistedshares.com/ipo/manika-plastech-ipo
+injecto-polymers-ipo,Injecto Polymers,SME,listed,BSE SME,2026-09-11,2026-09-16,98,100,1200,₹56.12 Cr,2026-09-17,2026-09-21,https://buyunlistedshares.com/ipo/injecto-polymers-ipo
 century-business-media-ipo,Century Business Media,SME,listed,BSE SME,2026-09-11,2026-09-16,70,74,1600,₹17.11 Cr,2026-09-17,2026-09-21,https://buyunlistedshares.com/ipo/century-business-media-ipo
-raksan-transformers-ipo,Raksan Transformers,SME,listed,BSE SME,2026-09-10,2026-09-15,258,273,400,₹150.50 Cr,2026-09-16,2026-09-18,https://buyunlistedshares.com/ipo/raksan-transformers-ipo
-veegaland-developers-ipo,Veegaland Developers,Mainboard,listed,"NSE, BSE",2026-09-10,2026-09-15,130,140,107,₹210.00 Cr,2026-09-16,2026-09-18,https://buyunlistedshares.com/ipo/veegaland-developers-ipo
-panchatv-bharat-ipo,Panchatv Bharat,SME,listed,BSE SME,2026-09-10,2026-09-15,140,140,1000,₹24.58 Cr,2026-09-16,2026-09-18,https://buyunlistedshares.com/ipo/panchatv-bharat-ipo
 om-galaxy-ipo,Om Galaxy,SME,listed,BSE SME,2026-09-10,2026-09-15,85,90,1600,₹105.00 Cr,2026-09-16,2026-09-18,https://buyunlistedshares.com/ipo/om-galaxy-ipo
+veegaland-developers-ipo,Veegaland Developers,Mainboard,listed,"NSE, BSE",2026-09-10,2026-09-15,130,140,107,₹210.00 Cr,2026-09-16,2026-09-18,https://buyunlistedshares.com/ipo/veegaland-developers-ipo
+raksan-transformers-ipo,Raksan Transformers,SME,listed,BSE SME,2026-09-10,2026-09-15,258,273,400,₹150.50 Cr,2026-09-16,2026-09-18,https://buyunlistedshares.com/ipo/raksan-transformers-ipo
+panchatv-bharat-ipo,Panchatv Bharat,SME,listed,BSE SME,2026-09-10,2026-09-15,140,140,1000,₹24.58 Cr,2026-09-16,2026-09-18,https://buyunlistedshares.com/ipo/panchatv-bharat-ipo
 maharaja-speedex-ipo,Maharaja & Speedex India,SME,listed,BSE SME,2026-09-10,2026-09-15,177,186,600,₹80.13 Cr,2026-09-16,2026-09-18,https://buyunlistedshares.com/ipo/maharaja-speedex-ipo
+infrax-renewable-ipo,Infrax Renewable,SME,listed,BSE SME,2026-09-09,2026-09-11,104,104,1200,₹40.88 Cr,2026-09-15,2026-09-17,https://buyunlistedshares.com/ipo/infrax-renewable-ipo
+amtech-esters-ipo,Amtech Esters,SME,listed,BSE SME,2026-09-09,2026-09-11,71,75,1600,₹17.88 Cr,2026-09-15,2026-09-17,https://buyunlistedshares.com/ipo/amtech-esters-ipo
+manipal-payment-and-identity-solutions-ipo,Manipal Payment and Identity Solutions,Mainboard,listed,"NSE, BSE",2026-09-09,2026-09-11,322,339,44,₹805.00 Cr,2026-09-15,2026-09-17,https://buyunlistedshares.com/ipo/manipal-payment-and-identity-solutions-ipo
+karamtara-engineering-ipo,Karamtara Engineering,Mainboard,listed,"NSE, BSE",2026-09-09,2026-09-11,241,254,59,₹875.00 Cr,2026-09-15,2026-09-17,https://buyunlistedshares.com/ipo/karamtara-engineering-ipo
 asset-reconstruction-ipo,Asset Reconstruction,Mainboard,listed,"NSE, BSE",2026-09-09,2026-09-11,132,139,107,₹732.97 Cr,2026-09-15,2026-09-17,https://buyunlistedshares.com/ipo/asset-reconstruction-ipo
 vinod-texworld-ipo,Vinod Texworld,SME,listed,NSE SME,2026-09-09,2026-09-11,94,94,1200,₹42.83 Cr,2026-09-15,2026-09-17,https://buyunlistedshares.com/ipo/vinod-texworld-ipo
-karamtara-engineering-ipo,Karamtara Engineering,Mainboard,listed,"NSE, BSE",2026-09-09,2026-09-11,241,254,59,₹875.00 Cr,2026-09-15,2026-09-17,https://buyunlistedshares.com/ipo/karamtara-engineering-ipo
-lcc-projects-ipo,LCC Projects,Mainboard,listed,"NSE, BSE",2026-09-09,2026-09-11,139,146,102,₹427.14 Cr,2026-09-15,2026-09-17,https://buyunlistedshares.com/ipo/lcc-projects-ipo
-infrax-renewable-ipo,Infrax Renewable,SME,listed,BSE SME,2026-09-09,2026-09-11,104,104,1200,₹40.88 Cr,2026-09-15,2026-09-17,https://buyunlistedshares.com/ipo/infrax-renewable-ipo
-manipal-payment-and-identity-solutions-ipo,Manipal Payment and Identity Solutions,Mainboard,listed,"NSE, BSE",2026-09-09,2026-09-11,322,339,44,₹805.00 Cr,2026-09-15,2026-09-17,https://buyunlistedshares.com/ipo/manipal-payment-and-identity-solutions-ipo
-amtech-esters-ipo,Amtech Esters,SME,listed,BSE SME,2026-09-09,2026-09-11,71,75,1600,₹17.88 Cr,2026-09-15,2026-09-17,https://buyunlistedshares.com/ipo/amtech-esters-ipo
-rentomojo-ipo,Rentomojo,Mainboard,listed,"NSE, BSE",2026-09-09,2026-09-11,384,404,37,₹1255.57 Cr,2026-09-15,2026-09-17,https://buyunlistedshares.com/ipo/rentomojo-ipo
 steamhouse-india-ipo,Steamhouse,Mainboard,listed,"NSE, BSE",2026-09-09,2026-09-11,77,81,185,₹414.00 Cr,2026-09-15,2026-09-17,https://buyunlistedshares.com/ipo/steamhouse-india-ipo
-kanohar-electricals-ipo,Kanohar Electricals,Mainboard,listed,"NSE, BSE",2026-09-08,2026-09-10,601,632,23,₹1055.74 Cr,2026-09-11,2026-09-16,https://buyunlistedshares.com/ipo/kanohar-electricals-ipo
+rentomojo-ipo,Rentomojo,Mainboard,listed,"NSE, BSE",2026-09-09,2026-09-11,384,404,37,₹1255.57 Cr,2026-09-15,2026-09-17,https://buyunlistedshares.com/ipo/rentomojo-ipo
+lcc-projects-ipo,LCC Projects,Mainboard,listed,"NSE, BSE",2026-09-09,2026-09-11,139,146,102,₹427.14 Cr,2026-09-15,2026-09-17,https://buyunlistedshares.com/ipo/lcc-projects-ipo
 prasol-chemicals-ipo,Prasol Chemicals,Mainboard,listed,"NSE, BSE",2026-09-08,2026-09-10,643,676,22,₹500.00 Cr,2026-09-11,2026-09-16,https://buyunlistedshares.com/ipo/prasol-chemicals-ipo
+kanohar-electricals-ipo,Kanohar Electricals,Mainboard,listed,"NSE, BSE",2026-09-08,2026-09-10,601,632,23,₹1055.74 Cr,2026-09-11,2026-09-16,https://buyunlistedshares.com/ipo/kanohar-electricals-ipo
 glass-wall-systems-ipo,Glass Wall Systems,Mainboard,listed,"NSE, BSE",2026-09-08,2026-09-10,172,182,82,₹427.89 Cr,2026-09-11,2026-09-16,https://buyunlistedshares.com/ipo/glass-wall-systems-ipo
 apana-logistics-ipo,Apana Logistics,SME,listed,BSE SME,2026-09-07,2026-09-09,60,60,2000,₹34.14 Cr,2026-09-10,2026-09-15,https://buyunlistedshares.com/ipo/apana-logistics-ipo
 pranav-constructions-ipo,Pranav Constructions,Mainboard,listed,"NSE, BSE",2026-09-07,2026-09-09,118,124,120,₹351.03 Cr,2026-09-10,2026-09-15,https://buyunlistedshares.com/ipo/pranav-constructions-ipo
 qualiance-international-ipo,Qualiance International,SME,listed,NSE SME,2026-09-04,2026-09-08,127,127,1000,₹45.11 Cr,2026-09-09,2026-09-11,https://buyunlistedshares.com/ipo/qualiance-international-ipo
 farm-peace-ipo,Farm Peace,SME,listed,BSE SME,2026-09-01,2026-09-03,59,59,2000,₹32.00 Cr,2026-09-04,2026-09-08,https://buyunlistedshares.com/ipo/farm-peace-ipo
-fly-hi-maritime-ipo,Fly-Hi Maritime,SME,listed,BSE SME,2026-09-01,2026-09-03,102,102,1200,₹52.63 Cr,2026-09-04,2026-09-08,https://buyunlistedshares.com/ipo/fly-hi-maritime-ipo
 rays-of-belief-ipo,Rays of Belief,Mainboard,listed,"NSE, BSE",2026-09-01,2026-09-03,239,239,62,₹125.00 Cr,2026-09-04,2026-09-08,https://buyunlistedshares.com/ipo/rays-of-belief-ipo
+fly-hi-maritime-ipo,Fly-Hi Maritime,SME,listed,BSE SME,2026-09-01,2026-09-03,102,102,1200,₹52.63 Cr,2026-09-04,2026-09-08,https://buyunlistedshares.com/ipo/fly-hi-maritime-ipo
 deepa-jewellers-ipo,Deepa Jewellers,Mainboard,listed,"NSE, BSE",2026-09-01,2026-09-03,177,177,84,₹459.72 Cr,2026-09-04,2026-09-08,https://buyunlistedshares.com/ipo/deepa-jewellers-ipo
-shanti-inorganics-ipo,Shanti Inorganics,SME,listed,NSE SME,2026-08-31,2026-09-02,83,83,1600,₹47.24 Cr,2026-09-03,2026-09-07,https://buyunlistedshares.com/ipo/shanti-inorganics-ipo
-ashutosh-fibre-ipo,Ashutosh Fibre,SME,listed,NSE SME,2026-08-31,2026-09-02,92,92,1200,₹56.35 Cr,2026-09-03,2026-09-07,https://buyunlistedshares.com/ipo/ashutosh-fibre-ipo
 purple-style-labs-ipo,Purple Style Labs,Mainboard,listed,"NSE, BSE",2026-08-31,2026-09-02,575,575,26,₹680.00 Cr,2026-09-03,2026-09-07,https://buyunlistedshares.com/ipo/purple-style-labs-ipo
+ashutosh-fibre-ipo,Ashutosh Fibre,SME,listed,NSE SME,2026-08-31,2026-09-02,92,92,1200,₹56.35 Cr,2026-09-03,2026-09-07,https://buyunlistedshares.com/ipo/ashutosh-fibre-ipo
 phychem-technologies-ipo,Phychem Technologies,SME,listed,BSE SME,2026-08-31,2026-09-02,54,54,2000,₹14.58 Cr,2026-09-03,2026-09-07,https://buyunlistedshares.com/ipo/phychem-technologies-ipo
+shanti-inorganics-ipo,Shanti Inorganics,SME,listed,NSE SME,2026-08-31,2026-09-02,83,83,1600,₹47.24 Cr,2026-09-03,2026-09-07,https://buyunlistedshares.com/ipo/shanti-inorganics-ipo
 priority-jewels-ipo,Priority Jewels,Mainboard,listed,"NSE, BSE",2026-08-28,2026-09-01,200,200,75,₹91.50 Cr,2026-09-02,2026-09-04,https://buyunlistedshares.com/ipo/priority-jewels-ipo
 complete-sports-and-management-ipo,Complete Sports and Management,SME,listed,BSE SME,2026-08-28,2026-09-01,135,135,1000,₹74.93 Cr,2026-09-02,2026-09-04,https://buyunlistedshares.com/ipo/complete-sports-and-management-ipo
-paluck-technologies-ipo,Paluck Technologies,SME,listed,BSE SME,2026-08-28,2026-09-01,48,48,3000,₹33.00 Cr,2026-09-02,2026-09-04,https://buyunlistedshares.com/ipo/paluck-technologies-ipo
 esds-software-ipo,ESDS Software Solution,Mainboard,listed,"NSE, BSE",2026-08-28,2026-09-01,429,429,34,₹720.00 Cr,2026-09-02,2026-09-04,https://buyunlistedshares.com/ipo/esds-software-ipo
-kwick-forensic-solutions-ipo,Kwick Forensic Solutions,SME,listed,BSE SME,2026-08-27,2026-08-31,90,90,1600,₹50.77 Cr,2026-09-01,2026-09-03,https://buyunlistedshares.com/ipo/kwick-forensic-solutions-ipo
+paluck-technologies-ipo,Paluck Technologies,SME,listed,BSE SME,2026-08-28,2026-09-01,48,48,3000,₹33.00 Cr,2026-09-02,2026-09-04,https://buyunlistedshares.com/ipo/paluck-technologies-ipo
 lumino-industries-ipo,Lumino Industries,Mainboard,listed,"NSE, BSE",2026-08-27,2026-08-31,82,82,182,₹700.00 Cr,2026-09-01,2026-09-03,https://buyunlistedshares.com/ipo/lumino-industries-ipo
+kwick-forensic-solutions-ipo,Kwick Forensic Solutions,SME,listed,BSE SME,2026-08-27,2026-08-31,90,90,1600,₹50.77 Cr,2026-09-01,2026-09-03,https://buyunlistedshares.com/ipo/kwick-forensic-solutions-ipo
 annu-projects-ipo,Annu Projects,Mainboard,listed,"NSE, BSE",2026-08-25,2026-08-28,99,99,151,₹175.06 Cr,2026-08-31,2026-09-02,https://buyunlistedshares.com/ipo/annu-projects-ipo
 sumax-engineering-ipo,Sumax Engineering,SME,listed,NSE SME,2026-08-25,2026-08-28,101,101,1200,₹53.40 Cr,2026-08-31,2026-09-02,https://buyunlistedshares.com/ipo/sumax-engineering-ipo
-abh-healthcare-ipo,ABH Healthcare,SME,listed,NSE SME,2026-08-24,2026-08-27,102,102,1200,₹34.98 Cr,2026-08-28,2026-09-01,https://buyunlistedshares.com/ipo/abh-healthcare-ipo
 madhur-knit-ipo,Madhur Knit,SME,listed,NSE SME,2026-08-24,2026-08-27,100,100,1200,₹53.27 Cr,2026-08-28,2026-09-01,https://buyunlistedshares.com/ipo/madhur-knit-ipo
-skyways-air-ipo,Skyways Air,Mainboard,listed,"NSE, BSE",2026-08-24,2026-08-27,138,138,100,₹582.80 Cr,2026-08-28,2026-09-01,https://buyunlistedshares.com/ipo/skyways-air-ipo
+abh-healthcare-ipo,ABH Healthcare,SME,listed,NSE SME,2026-08-24,2026-08-27,102,102,1200,₹34.98 Cr,2026-08-28,2026-09-01,https://buyunlistedshares.com/ipo/abh-healthcare-ipo
 hy-tech-engineers-ipo,Hy-Tech Engineers,Mainboard,listed,"NSE, BSE",2026-08-24,2026-08-27,53,53,283,₹135.73 Cr,2026-08-28,2026-09-01,https://buyunlistedshares.com/ipo/hy-tech-engineers-ipo
+skyways-air-ipo,Skyways Air,Mainboard,listed,"NSE, BSE",2026-08-24,2026-08-27,138,138,100,₹582.80 Cr,2026-08-28,2026-09-01,https://buyunlistedshares.com/ipo/skyways-air-ipo
 symbiotec-pharmalab-ipo,Symbiotec Pharmalab,Mainboard,listed,"NSE, BSE",2026-08-24,2026-08-27,988,988,15,₹1757.00 Cr,2026-08-28,2026-09-01,https://buyunlistedshares.com/ipo/symbiotec-pharmalab-ipo
 augmont-enterprises-ipo,Augmont Enterprises,Mainboard,listed,"NSE, BSE",2026-08-21,2026-08-25,788,788,19,₹825.00 Cr,2026-08-27,2026-08-31,https://buyunlistedshares.com/ipo/augmont-enterprises-ipo
 tempsens-instruments-india-ipo,Tempsens Instruments (India),Mainboard,listed,"NSE, BSE",2026-08-20,2026-08-24,300,300,50,₹650.00 Cr,2026-08-25,2026-08-28,https://buyunlistedshares.com/ipo/tempsens-instruments-india-ipo
+mopshop-distribution-ipo,Mopshop Distribution,SME,listed,BSE SME,2026-08-19,2026-08-21,138,138,1000,₹27.26 Cr,2026-08-24,2026-08-26,https://buyunlistedshares.com/ipo/mopshop-distribution-ipo
 dhanwel-hybrid-seeds-ipo,Dhanwel Hybrid Seeds,SME,listed,BSE SME,2026-08-19,2026-08-21,99,99,1200,₹26.73 Cr,2026-08-24,2026-08-26,https://buyunlistedshares.com/ipo/dhanwel-hybrid-seeds-ipo
 gaja-alternative-asset-management-ipo,Gaja Alternative Asset Management,Mainboard,listed,"NSE, BSE",2026-08-19,2026-08-21,160,160,93,₹550.00 Cr,2026-08-24,2026-08-26,https://buyunlistedshares.com/ipo/gaja-alternative-asset-management-ipo
-mopshop-distribution-ipo,Mopshop Distribution,SME,listed,BSE SME,2026-08-19,2026-08-21,138,138,1000,₹27.26 Cr,2026-08-24,2026-08-26,https://buyunlistedshares.com/ipo/mopshop-distribution-ipo
-sunshine-pictures-ipo,Sunshine Pictures,Mainboard,listed,"NSE, BSE",2026-08-18,2026-08-20,360,360,41,₹282.14 Cr,2026-08-21,2026-08-25,https://buyunlistedshares.com/ipo/sunshine-pictures-ipo
 shankesh-jewellers-ipo,Shankesh Jewellers,Mainboard,listed,"NSE, BSE",2026-08-18,2026-08-20,93,93,160,₹367.18 Cr,2026-08-21,2026-08-25,https://buyunlistedshares.com/ipo/shankesh-jewellers-ipo
+sunshine-pictures-ipo,Sunshine Pictures,Mainboard,listed,"NSE, BSE",2026-08-18,2026-08-20,360,360,41,₹282.14 Cr,2026-08-21,2026-08-25,https://buyunlistedshares.com/ipo/sunshine-pictures-ipo
 fascinate-textiles-ipo,Fascinate Textiles,SME,listed,NSE SME,2026-08-11,2026-08-19,151,151,800,₹64.83 Cr,2026-08-20,2026-08-24,https://buyunlistedshares.com/ipo/fascinate-textiles-ipo
 lalithaa-jewellery-mart-ipo,Lalithaa Jewellery Mart,Mainboard,listed,"NSE, BSE",2026-08-17,2026-08-19,201,201,74,₹1700.00 Cr,2026-08-20,2026-08-24,https://buyunlistedshares.com/ipo/lalithaa-jewellery-mart-ipo
 horizon-industrial-parks-ipo,Horizon Industrial Parks,Mainboard,listed,"NSE, BSE",2026-08-17,2026-08-19,60,60,250,₹2600.04 Cr,2026-08-20,2026-08-24,https://buyunlistedshares.com/ipo/horizon-industrial-parks-ipo
 technocrats-plasma-systems-ipo,Technocrats Plasma Systems,SME,listed,BSE SME,2026-08-14,2026-08-18,132,132,1000,₹60.98 Cr,2026-08-19,2026-08-21,https://buyunlistedshares.com/ipo/technocrats-plasma-systems-ipo
-skytech-infinite-platform-ipo,Skytech Infinite Platform,SME,listed,NSE SME,2026-08-14,2026-08-18,77,77,1600,₹22.68 Cr,2026-08-19,2026-08-21,https://buyunlistedshares.com/ipo/skytech-infinite-platform-ipo
 ens-enterprises-ipo,ENS Enterprises,SME,listed,BSE SME,2026-08-14,2026-08-18,92,92,1200,₹33.14 Cr,2026-08-19,2026-08-21,https://buyunlistedshares.com/ipo/ens-enterprises-ipo
+skytech-infinite-platform-ipo,Skytech Infinite Platform,SME,listed,NSE SME,2026-08-14,2026-08-18,77,77,1600,₹22.68 Cr,2026-08-19,2026-08-21,https://buyunlistedshares.com/ipo/skytech-infinite-platform-ipo
 credent-connect-ipo,Credent Connect,SME,listed,NSE SME,2026-08-13,2026-08-17,189,189,600,₹93.90 Cr,2026-08-18,2026-08-20,https://buyunlistedshares.com/ipo/credent-connect-ipo
 behari-lal-engineering-ipo,Behari Lal Engineering,Mainboard,listed,"NSE, BSE",2026-08-12,2026-08-14,285,285,52,₹301.62 Cr,2026-08-17,2026-08-19,https://buyunlistedshares.com/ipo/behari-lal-engineering-ipo
+qt-foods-ipo,Q&T Foods,SME,listed,BSE SME,2026-08-12,2026-08-14,115,115,1200,₹26.25 Cr,2026-08-17,2026-08-19,https://buyunlistedshares.com/ipo/qt-foods-ipo
 shiprocket-ipo,Shiprocket,Mainboard,listed,"NSE, BSE",2026-08-12,2026-08-14,97,97,154,₹1617.48 Cr,2026-08-17,2026-08-19,https://buyunlistedshares.com/ipo/shiprocket-ipo
 pramodini-medicare-ipo,Pramodini Medicare,SME,listed,NSE SME,2026-08-12,2026-08-14,118,118,1200,₹69.04 Cr,2026-08-17,2026-08-19,https://buyunlistedshares.com/ipo/pramodini-medicare-ipo
-qt-foods-ipo,Q&T Foods,SME,listed,BSE SME,2026-08-12,2026-08-14,115,115,1200,₹26.25 Cr,2026-08-17,2026-08-19,https://buyunlistedshares.com/ipo/qt-foods-ipo
 milky-mist-dairy-food-ipo,Milky Mist Dairy Food,Mainboard,listed,"NSE, BSE",2026-08-11,2026-08-13,140,140,107,₹1553.00 Cr,2026-08-14,2026-08-18,https://buyunlistedshares.com/ipo/milky-mist-dairy-food-ipo
 sham-foam-ipo,Sham Foam,SME,listed,BSE SME,2026-08-11,2026-08-13,130,130,1000,₹40.48 Cr,2026-08-14,2026-08-18,https://buyunlistedshares.com/ipo/sham-foam-ipo
 molbio-diagnostics-ipo,Molbio Diagnostics,Mainboard,listed,"NSE, BSE",2026-08-10,2026-08-12,807,807,18,₹939.70 Cr,2026-08-13,2026-08-17,https://buyunlistedshares.com/ipo/molbio-diagnostics-ipo
 dhoot-transmission-ipo,Dhoot Transmission,Mainboard,listed,"NSE, BSE",2026-08-10,2026-08-12,871,871,17,₹3066.89 Cr,2026-08-13,2026-08-17,https://buyunlistedshares.com/ipo/dhoot-transmission-ipo
+optimystix-entertainment-ipo,Optimystix Entertainment,SME,listed,NSE SME,2026-08-07,2026-08-11,175,175,800,₹108.50 Cr,2026-08-12,2026-08-14,https://buyunlistedshares.com/ipo/optimystix-entertainment-ipo
 leap-india-ipo,LEAP India,Mainboard,listed,"NSE, BSE",2026-08-07,2026-08-11,159,159,94,₹2480.00 Cr,2026-08-12,2026-08-14,https://buyunlistedshares.com/ipo/leap-india-ipo
 technocraft-ventures-ipo,Technocraft Ventures,Mainboard,listed,"NSE, BSE",2026-08-07,2026-08-11,212,212,70,₹251.88 Cr,2026-08-12,2026-08-14,https://buyunlistedshares.com/ipo/technocraft-ventures-ipo
-optimystix-entertainment-ipo,Optimystix Entertainment,SME,listed,NSE SME,2026-08-07,2026-08-11,175,175,800,₹108.50 Cr,2026-08-12,2026-08-14,https://buyunlistedshares.com/ipo/optimystix-entertainment-ipo
 lapl-automotive-ipo,LAPL Automotive,SME,listed,BSE SME,2026-08-06,2026-08-10,94,94,1200,₹32.40 Cr,2026-08-11,2026-08-13,https://buyunlistedshares.com/ipo/lapl-automotive-ipo
 ardee-industries-ipo,Ardee Industries,Mainboard,listed,"NSE, BSE",2026-08-05,2026-08-07,53,53,281,₹425.87 Cr,2026-08-10,2026-08-12,https://buyunlistedshares.com/ipo/ardee-industries-ipo
 gv-electricals-ipo,G.V. Electricals,SME,listed,BSE SME,2026-07-31,2026-08-07,130,130,1000,₹42.25 Cr,2026-08-10,2026-08-12,https://buyunlistedshares.com/ipo/gv-electricals-ipo
 aegeus-technologies-ipo,Aegeus Technologies,SME,listed,BSE SME,2026-08-04,2026-08-06,105,105,1200,₹23.71 Cr,2026-08-07,2026-08-11,https://buyunlistedshares.com/ipo/aegeus-technologies-ipo
 anawil-wire-engieering-ipo,Anawil Wire & Engineering,SME,listed,NSE SME,2026-08-03,2026-08-05,270,270,400,₹177.81 Cr,2026-08-06,2026-08-10,https://buyunlistedshares.com/ipo/anawil-wire-engieering-ipo
 fusion-klassroom-edutech-ipo,Fusion Klassroom Edutech,SME,listed,BSE SME,2026-07-31,2026-08-04,159,159,800,₹39.04 Cr,2026-08-05,2026-08-07,https://buyunlistedshares.com/ipo/fusion-klassroom-edutech-ipo
+oneindig-technologies-ipo,Oneindig Technologies,SME,listed,BSE SME,2026-07-30,2026-08-03,96,96,1200,₹27.65 Cr,2026-08-04,2026-08-06,https://buyunlistedshares.com/ipo/oneindig-technologies-ipo
 dhaval-packaging-ipo,Dhaval Packaging,SME,listed,BSE SME,2026-07-30,2026-08-03,97,97,1200,₹36.36 Cr,2026-08-04,2026-08-06,https://buyunlistedshares.com/ipo/dhaval-packaging-ipo
 mv-electrosystems-ipo,MV Electrosystems,Mainboard,listed,"NSE, BSE",2026-07-30,2026-08-03,425,425,34,₹290.00 Cr,2026-08-04,2026-08-06,https://buyunlistedshares.com/ipo/mv-electrosystems-ipo
 juniper-green-energy-ipo,Juniper Green Energy,Mainboard,listed,"NSE, BSE",2026-07-30,2026-08-03,225,225,66,₹1800.00 Cr,2026-08-04,2026-08-06,https://buyunlistedshares.com/ipo/juniper-green-energy-ipo
-oneindig-technologies-ipo,Oneindig Technologies,SME,listed,BSE SME,2026-07-30,2026-08-03,96,96,1200,₹27.65 Cr,2026-08-04,2026-08-06,https://buyunlistedshares.com/ipo/oneindig-technologies-ipo
-manipal-health-enterprises-ipo,Manipal Health Enterprises,Mainboard,listed,"NSE, BSE",2026-07-29,2026-07-31,590,590,25,₹9275.22 Cr,2026-08-03,2026-08-05,https://buyunlistedshares.com/ipo/manipal-health-enterprises-ipo
 hr-hygiene-products-ipo,H.R. Hygiene Products,SME,listed,BSE SME,2026-07-29,2026-07-31,88,88,1600,₹53.95 Cr,2026-08-03,2026-08-05,https://buyunlistedshares.com/ipo/hr-hygiene-products-ipo
+manipal-health-enterprises-ipo,Manipal Health Enterprises,Mainboard,listed,"NSE, BSE",2026-07-29,2026-07-31,590,590,25,₹9275.22 Cr,2026-08-03,2026-08-05,https://buyunlistedshares.com/ipo/manipal-health-enterprises-ipo
 poojaa-precision-engg-ipo,Poojaa Precision Engg.,SME,listed,BSE SME,2026-07-28,2026-07-30,301,301,400,₹159.83 Cr,2026-07-31,2026-08-04,https://buyunlistedshares.com/ipo/poojaa-precision-engg-ipo
 advance-technoforge-ipo,Advance Technoforge,SME,listed,BSE SME,2026-07-27,2026-07-29,95,95,1200,₹24.04 Cr,2026-07-30,2026-08-03,https://buyunlistedshares.com/ipo/advance-technoforge-ipo
 propshop-events-exhibitions-ipo,Propshop Events & Exhibitions,SME,listed,NSE SME,2026-07-27,2026-07-29,69,69,2000,₹28.57 Cr,2026-07-30,2026-08-03,https://buyunlistedshares.com/ipo/propshop-events-exhibitions-ipo
-cube-highways-trust-invit-ipo,Cube Highways Trust InvIT,Mainboard,listed,"NSE, BSE",2026-07-22,2026-07-24,152,152,95,₹5000.00 Cr,2026-07-29,2026-07-31,https://buyunlistedshares.com/ipo/cube-highways-trust-invit-ipo
 silverstorm-parks-resorts-ipo,Silverstorm Parks & Resorts,SME,listed,BSE SME,2026-07-24,2026-07-28,133,133,1000,₹82.43 Cr,2026-07-29,2026-07-31,https://buyunlistedshares.com/ipo/silverstorm-parks-resorts-ipo
+cube-highways-trust-invit-ipo,Cube Highways Trust InvIT,Mainboard,listed,"NSE, BSE",2026-07-22,2026-07-24,152,152,95,₹5000.00 Cr,2026-07-29,2026-07-31,https://buyunlistedshares.com/ipo/cube-highways-trust-invit-ipo
 indo-mim-ipo,Indo-MIM,Mainboard,listed,"NSE, BSE",2026-07-23,2026-07-27,485,485,30,₹3811.21 Cr,2026-07-28,2026-07-30,https://buyunlistedshares.com/ipo/indo-mim-ipo
 lohia-corp-ipo,Lohia Corp,Mainboard,listed,"NSE, BSE",2026-07-23,2026-07-27,425,425,35,₹1101.28 Cr,2026-07-28,2026-07-30,https://buyunlistedshares.com/ipo/lohia-corp-ipo
 xtranet-technologies-ipo,Xtranet Technologies,Mainboard,listed,"NSE, BSE",2026-07-23,2026-07-27,127,127,110,₹166.80 Cr,2026-07-28,2026-07-30,https://buyunlistedshares.com/ipo/xtranet-technologies-ipo
@@ -132,40 +159,40 @@ gulf-lloyds-ipo,Gulf Lloyds,SME,listed,BSE SME,2026-07-20,2026-07-22,100,100,120
 caliber-mining-ipo,Caliber Mining,Mainboard,listed,"NSE, BSE",2026-07-17,2026-07-21,424,424,35,₹450.00 Cr,2026-07-22,2026-07-24,https://buyunlistedshares.com/ipo/caliber-mining-ipo
 sotefin-bharat-ipo,Sotefin Bharat,SME,listed,BSE SME,2026-07-16,2026-07-20,187,187,600,₹89.76 Cr,2026-07-21,2026-07-23,https://buyunlistedshares.com/ipo/sotefin-bharat-ipo
 sbi-funds-management-ipo,SBI Funds Management,Mainboard,listed,"NSE, BSE",2026-07-14,2026-07-16,574,574,26,₹9812.91 Cr,2026-07-17,2026-07-21,https://buyunlistedshares.com/ipo/sbi-funds-management-ipo
-millworks-technologies-ipo,Millworks Technologies,SME,listed,BSE SME,2026-07-14,2026-07-16,331,331,400,₹160.34 Cr,2026-07-17,2026-07-21,https://buyunlistedshares.com/ipo/millworks-technologies-ipo
 alpine-texworld-ipo,Alpine Texworld,Mainboard,listed,"NSE, BSE",2026-07-14,2026-07-16,105,105,142,₹126.25 Cr,2026-07-17,2026-07-21,https://buyunlistedshares.com/ipo/alpine-texworld-ipo
-laser-power-infra-ipo,Laser Power & Infra,Mainboard,listed,"NSE, BSE",2026-07-09,2026-07-13,214,214,70,₹742.00 Cr,2026-07-14,2026-07-16,https://buyunlistedshares.com/ipo/laser-power-infra-ipo
+millworks-technologies-ipo,Millworks Technologies,SME,listed,BSE SME,2026-07-14,2026-07-16,331,331,400,₹160.34 Cr,2026-07-17,2026-07-21,https://buyunlistedshares.com/ipo/millworks-technologies-ipo
 happy-steels-ipo,Happy Steels,SME,listed,NSE SME,2026-07-09,2026-07-13,66,66,2000,₹25.00 Cr,2026-07-14,2026-07-16,https://buyunlistedshares.com/ipo/happy-steels-ipo
+laser-power-infra-ipo,Laser Power & Infra,Mainboard,listed,"NSE, BSE",2026-07-09,2026-07-13,214,214,70,₹742.00 Cr,2026-07-14,2026-07-16,https://buyunlistedshares.com/ipo/laser-power-infra-ipo
 devson-catalyst-ipo,Devson Catalyst,SME,listed,BSE SME,2026-07-09,2026-07-13,118,118,1200,₹42.34 Cr,2026-07-14,2026-07-16,https://buyunlistedshares.com/ipo/devson-catalyst-ipo
 kusumgar-ipo,Kusumgar,Mainboard,listed,"NSE, BSE",2026-07-08,2026-07-10,419,419,35,₹650.36 Cr,2026-07-13,2026-07-15,https://buyunlistedshares.com/ipo/kusumgar-ipo
 ic-electricals-ipo,IC Electricals,SME,listed,NSE SME,2026-07-03,2026-07-07,99,99,1200,₹47.91 Cr,2026-07-08,2026-07-10,https://buyunlistedshares.com/ipo/ic-electricals-ipo
 knack-packaging-ipo,Knack Packaging,Mainboard,listed,"NSE, BSE",2026-07-01,2026-07-03,170,170,88,₹439.71 Cr,2026-07-06,2026-07-08,https://buyunlistedshares.com/ipo/knack-packaging-ipo
-seemax-resources-ipo,Seemax Resources,SME,listed,BSE SME,2026-06-30,2026-07-02,141,141,1000,₹19.74 Cr,2026-07-03,2026-07-07,https://buyunlistedshares.com/ipo/seemax-resources-ipo
-teja-engineering-industries-ipo,Teja Engineering Industries,SME,listed,NSE SME,2026-06-30,2026-07-02,220,220,600,₹37.36 Cr,2026-07-03,2026-07-07,https://buyunlistedshares.com/ipo/teja-engineering-industries-ipo
 atharva-polyplast-ipo,Atharva Polyplast,SME,listed,BSE SME,2026-06-30,2026-07-02,60,60,2000,₹27.00 Cr,2026-07-03,2026-07-07,https://buyunlistedshares.com/ipo/atharva-polyplast-ipo
-kratikal-tech-ipo,Kratikal Tech,SME,listed,BSE SME,2026-06-30,2026-07-02,135,135,1000,₹39.69 Cr,2026-07-03,2026-07-07,https://buyunlistedshares.com/ipo/kratikal-tech-ipo
 sampark-india-logistics-ipo,Sampark India Logistics,SME,listed,BSE SME,2026-06-30,2026-07-02,84,84,1600,₹27.22 Cr,2026-07-03,2026-07-07,https://buyunlistedshares.com/ipo/sampark-india-logistics-ipo
+seemax-resources-ipo,Seemax Resources,SME,listed,BSE SME,2026-06-30,2026-07-02,141,141,1000,₹19.74 Cr,2026-07-03,2026-07-07,https://buyunlistedshares.com/ipo/seemax-resources-ipo
 vinit-mobile-ipo,Vinit Mobile,SME,listed,NSE SME,2026-06-30,2026-07-02,158,158,800,₹34.13 Cr,2026-07-03,2026-07-07,https://buyunlistedshares.com/ipo/vinit-mobile-ipo
-aastha-spintex-ipo,Aastha Spintex,Mainboard,listed,"NSE, BSE",2026-06-29,2026-07-01,136,136,110,₹170.00 Cr,2026-07-02,2026-07-06,https://buyunlistedshares.com/ipo/aastha-spintex-ipo
+kratikal-tech-ipo,Kratikal Tech,SME,listed,BSE SME,2026-06-30,2026-07-02,135,135,1000,₹39.69 Cr,2026-07-03,2026-07-07,https://buyunlistedshares.com/ipo/kratikal-tech-ipo
+teja-engineering-industries-ipo,Teja Engineering Industries,SME,listed,NSE SME,2026-06-30,2026-07-02,220,220,600,₹37.36 Cr,2026-07-03,2026-07-07,https://buyunlistedshares.com/ipo/teja-engineering-industries-ipo
 adon-agro-commodities-ipo,Adon Agro Commodities,SME,listed,BSE SME,2026-06-29,2026-07-01,70,70,2000,₹44.03 Cr,2026-07-02,2026-07-06,https://buyunlistedshares.com/ipo/adon-agro-commodities-ipo
+aastha-spintex-ipo,Aastha Spintex,Mainboard,listed,"NSE, BSE",2026-06-29,2026-07-01,136,136,110,₹170.00 Cr,2026-07-02,2026-07-06,https://buyunlistedshares.com/ipo/aastha-spintex-ipo
 crazy-snacks-ipo,Crazy Snacks,SME,listed,BSE SME,2026-06-25,2026-06-30,42,42,3000,₹31.47 Cr,2026-07-01,2026-07-03,https://buyunlistedshares.com/ipo/crazy-snacks-ipo
 csm-technologies-ipo,CSM Technologies,Mainboard,listed,"NSE, BSE",2026-06-24,2026-06-29,113,113,132,₹145.78 Cr,2026-06-30,2026-07-02,https://buyunlistedshares.com/ipo/csm-technologies-ipo
-jivial-industries-ipo,Jivial Industries,SME,listed,BSE SME,2026-06-23,2026-06-25,196,196,600,₹31.99 Cr,2026-06-29,2026-07-01,https://buyunlistedshares.com/ipo/jivial-industries-ipo
-shreedhar-spinners-ipo,Shreedhar Spinners,SME,listed,NSE SME,2026-06-23,2026-06-25,53,53,2000,₹30.68 Cr,2026-06-29,2026-07-01,https://buyunlistedshares.com/ipo/shreedhar-spinners-ipo
-riyaasat-lifestyle-ipo,Riyaasat Lifestyle,SME,listed,BSE SME,2026-06-18,2026-06-25,106,106,1200,₹30.20 Cr,2026-06-29,2026-07-01,https://buyunlistedshares.com/ipo/riyaasat-lifestyle-ipo
-advit-jewels-ipo,Advit Jewels,Mainboard,listed,"NSE, BSE",2026-06-23,2026-06-25,138,138,100,₹165.16 Cr,2026-06-29,2026-07-01,https://buyunlistedshares.com/ipo/advit-jewels-ipo
 cordelia-cruises-ipo,Waterways Leisure Tourism,Mainboard,listed,"NSE, BSE",2026-06-23,2026-06-25,808,808,18,₹585.00 Cr,2026-06-29,2026-07-01,https://buyunlistedshares.com/ipo/cordelia-cruises-ipo
-turtlemint-fintech-solutions-ipo,Turtlemint Fintech Solutions,Mainboard,listed,"NSE, BSE",2026-06-19,2026-06-23,152,152,98,₹882.67 Cr,2026-06-24,2026-06-29,https://buyunlistedshares.com/ipo/turtlemint-fintech-solutions-ipo
+riyaasat-lifestyle-ipo,Riyaasat Lifestyle,SME,listed,BSE SME,2026-06-18,2026-06-25,106,106,1200,₹30.20 Cr,2026-06-29,2026-07-01,https://buyunlistedshares.com/ipo/riyaasat-lifestyle-ipo
+shreedhar-spinners-ipo,Shreedhar Spinners,SME,listed,NSE SME,2026-06-23,2026-06-25,53,53,2000,₹30.68 Cr,2026-06-29,2026-07-01,https://buyunlistedshares.com/ipo/shreedhar-spinners-ipo
+jivial-industries-ipo,Jivial Industries,SME,listed,BSE SME,2026-06-23,2026-06-25,196,196,600,₹31.99 Cr,2026-06-29,2026-07-01,https://buyunlistedshares.com/ipo/jivial-industries-ipo
+advit-jewels-ipo,Advit Jewels,Mainboard,listed,"NSE, BSE",2026-06-23,2026-06-25,138,138,100,₹165.16 Cr,2026-06-29,2026-07-01,https://buyunlistedshares.com/ipo/advit-jewels-ipo
 anubhav-plast-ipo,Anubhav Plast,SME,listed,BSE SME,2026-06-19,2026-06-23,80,80,1600,₹24.00 Cr,2026-06-24,2026-06-29,https://buyunlistedshares.com/ipo/anubhav-plast-ipo
+turtlemint-fintech-solutions-ipo,Turtlemint Fintech Solutions,Mainboard,listed,"NSE, BSE",2026-06-19,2026-06-23,152,152,98,₹882.67 Cr,2026-06-24,2026-06-29,https://buyunlistedshares.com/ipo/turtlemint-fintech-solutions-ipo
 avience-biomedicals-ipo,Avience Biomedicals,SME,listed,NSE SME,2026-06-18,2026-06-22,208,208,600,₹30.24 Cr,2026-06-23,2026-06-25,https://buyunlistedshares.com/ipo/avience-biomedicals-ipo
-leapfrog-engineering-ipo,Leapfrog Engineering,SME,listed,BSE SME,2026-06-17,2026-06-19,23,23,6000,₹88.51 Cr,2026-06-22,2026-06-24,https://buyunlistedshares.com/ipo/leapfrog-engineering-ipo
 diksha-polymers-ipo,Diksha Polymers,SME,listed,BSE SME,2026-06-17,2026-06-19,112,112,1200,₹17.90 Cr,2026-06-22,2026-06-24,https://buyunlistedshares.com/ipo/diksha-polymers-ipo
+leapfrog-engineering-ipo,Leapfrog Engineering,SME,listed,BSE SME,2026-06-17,2026-06-19,23,23,6000,₹88.51 Cr,2026-06-22,2026-06-24,https://buyunlistedshares.com/ipo/leapfrog-engineering-ipo
 liotech-industries-ipo,Liotech Industries,SME,listed,BSE SME,2026-06-17,2026-06-19,321,321,400,₹36.03 Cr,2026-06-22,2026-06-24,https://buyunlistedshares.com/ipo/liotech-industries-ipo
 clay-craft-ipo,Clay Craft,SME,listed,NSE SME,2026-06-17,2026-06-19,203,203,600,₹110.11 Cr,,2026-06-24,https://buyunlistedshares.com/ipo/clay-craft-ipo
 horizon-reclaim-india-ipo,Horizon Reclaim (India),SME,listed,BSE SME,2026-06-12,2026-06-16,103,103,1200,₹54.27 Cr,,2026-06-19,https://buyunlistedshares.com/ipo/horizon-reclaim-india-ipo
 susan-electricals-india-ipo,Susan Electricals India,SME,listed,BSE SME,2026-06-11,2026-06-15,127,127,1000,₹70.38 Cr,,2026-06-18,https://buyunlistedshares.com/ipo/susan-electricals-india-ipo
 utkal-speciality-ipo,Utkal Speciality,SME,listed,NSE SME,2026-06-10,2026-06-12,66,66,2000,₹34.54 Cr,,2026-06-17,https://buyunlistedshares.com/ipo/utkal-speciality-ipo
-genxai-analytics-ipo,Genxai Analytics,SME,listed,NSE SME,2026-06-05,2026-06-09,116,116,1200,₹54.66 Cr,,2026-06-12,https://buyunlistedshares.com/ipo/genxai-analytics-ipo
 hexagon-nutrition-ipo,Hexagon Nutrition,Mainboard,listed,"NSE, BSE",2026-06-05,2026-06-09,45,45,333,₹138.87 Cr,,2026-06-12,https://buyunlistedshares.com/ipo/hexagon-nutrition-ipo
+genxai-analytics-ipo,Genxai Analytics,SME,listed,NSE SME,2026-06-05,2026-06-09,116,116,1200,₹54.66 Cr,,2026-06-12,https://buyunlistedshares.com/ipo/genxai-analytics-ipo
 merritronix-ipo,Merritronix,SME,listed,BSE SME,2026-06-01,2026-06-03,141,149,2000,₹70.03 Cr,2026-06-05,2026-06-08,https://buyunlistedshares.com/ipo/merritronix-ipo
 mobikwik-ipo,One Mobikwik Systems,Mainboard,listed,"NSE, BSE",2024-12-11,2024-12-13,265,279,,₹572.00 Cr,2024-12-16,2024-12-18,https://buyunlistedshares.com/ipo/mobikwik-ipo
