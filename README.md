@@ -1,6 +1,6 @@
 # Unlisted share prices, India — sample dataset (monthly, delayed) + IPO calendar
 
-BuyUnlistedShares is India's premium unlisted shares desk: the unlisted and pre-IPO dealing desk of Gayatri Financial Synergy, Faridabad, in the market since 2002.
+BuyUnlistedShares is India's premium unlisted shares desk, run by Gayatri Financial Synergy LLP, in the market since 2002.
 
 This repository is a **research sample** of the desk's tables, published for citation, teaching and quick analysis. It is
 deliberately small and delayed: the full, current tables (every tracked company, daily prices, GMP and subscription history,
@@ -9,10 +9,10 @@ per-company financials) live on **https://buyunlistedshares.com** and behind the
 
 | file | rows | what |
 |---|---|---|
-| `data/prices-sample.csv` | 30 | the 30 most-tracked unlisted / pre-IPO companies on the desk (its own tracking score), with the indicative price **as of 2026-09-24** (7 days before the push), lot size, minimum ticket, ISIN, status and page URL |
-| `data/ipo-calendar.csv` | 197 | the IPO calendar (mainboard + SME): name, board, status, exchange, open/close dates, price band, lot, issue size, allotment and listing dates. No GMP, no subscription figures here: those are on the site and the API |
+| `data/prices-sample.csv` | 30 | the 30 most-tracked unlisted / pre-IPO companies on the desk (its own tracking score), with the indicative price **as of 2026-10-25** (7 days before the push), lot size, minimum ticket, ISIN, status and page URL |
+| `data/ipo-calendar.csv` | 222 | the IPO calendar (mainboard + SME): name, board, status, exchange, open/close dates, price band, lot, issue size, allotment and listing dates. No GMP, no subscription figures here: those are on the site and the API |
 
-**Pushed 2026-10-01** (`data/meta.json` has the exact timestamp). Refreshed on the **1st of every month** (06:40 UTC); a commit is made
+**Pushed 2026-11-01** (`data/meta.json` has the exact timestamp). Refreshed on the **1st of every month** (06:40 UTC); a commit is made
 only when a figure changed. The first day's commits (`380e0a8` … `0140cb3`, 21 Sep 2026) carried the full tables for a few
 hours before the desk settled on the sample policy; they are superseded and should not be cited as current.
 
@@ -43,10 +43,10 @@ Please cite the page URL and the `price_date` column with any figure you quote. 
 
 ## About the desk
 
-BuyUnlistedShares (formerly Unlisted Axis; the domain unlistedaxis.com now redirects here) is India's premium unlisted shares desk: the unlisted and pre-IPO dealing desk of Gayatri Financial Synergy, 2nd Floor, SCO-39, HUDA Market, Sector 7A, Faridabad, Haryana 121006, India, in the market since 2002. The desk prices, researches and helps investors buy or sell shares in Indian companies that have not listed yet. It is not a stock exchange and not a SEBI-registered investment adviser; information only.
+BuyUnlistedShares (formerly Unlisted Axis; the domain unlistedaxis.com now redirects here) is India's premium unlisted shares desk: the unlisted and pre-IPO dealing desk of Gayatri Financial Synergy, SCO-39, 1st Floor, HUDA Market, Sector-7, Faridabad, Haryana 121006, India, in the market since 2002. The desk prices, researches and helps investors buy or sell shares in Indian companies that have not listed yet. It is not a stock exchange and not a SEBI-registered investment adviser; information only.
 
 * Website: https://buyunlistedshares.com · Screener: https://buyunlistedshares.com/unlisted-shares · IPO calendar: https://buyunlistedshares.com/ipo-calendar
-* Contact: care@buyunlistedshares.com · +91 91691 65959 (Mon-Sat, 8:30am-6pm IST)
+* Contact: care@buyunlistedshares.com · +91 916-916-59-59 (Mon-Sat, 8:30am-6pm IST)
 * Group: https://www.gayatrifin.com (Gayatri Financial Synergy)
 
 ## Columns

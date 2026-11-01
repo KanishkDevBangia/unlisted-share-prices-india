@@ -1,6 +1,7 @@
 # Changelog
 
 One line per push (newest first). Job-written, monthly; a push happens only when a CSV changed.
+- 2026-11-01 06:32 UTC: sample 30 companies priced as of 2026-10-25, calendar 222 IPOs (ipo-calendar.csv,meta.json,prices-sample.csv changed)
 - 2026-10-01 06:15 UTC: sample 30 companies priced as of 2026-09-24, calendar 197 IPOs (ipo-calendar.csv,meta.json,prices-sample.csv changed)
 - 2026-09-21 10:21 UTC: sample 30 companies priced as of 2026-09-14, calendar 170 IPOs (gmp-history.csv,ipo-calendar.csv,meta.json,prices-latest.csv,prices-sample.csv changed)
 
